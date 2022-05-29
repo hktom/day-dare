@@ -1,4 +1,4 @@
-# ApplicationChallenge
+# Day Dare app
 
 A new Flutter project.
 
